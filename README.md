@@ -1,6 +1,5 @@
 # Machine Learning Final Project
-### Zach Morrissey
-### Rees LaBree
+### Zach Morrissey and Rees LaBree
 
 ## Overview
 The goal of this project is to predict new COVID case numbers per day for each county in Colorado. We will predict using several different models and features to tune and find 
